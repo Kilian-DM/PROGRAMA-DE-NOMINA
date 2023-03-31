@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+#resultado{
+    background-color: antiquewhite;
+  border-radius: 10px;
+  margin: auto;
+  width: 480px;
+}
